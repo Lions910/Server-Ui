@@ -24,7 +24,7 @@
       },
       {
         "casino": {
-          "layout": 1,
+          "layout": 2,
           "buttontext": "Casino",
           "title1": "Casino",
           "text1": "Ubicacion: ARK Verde.\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea lingotes de metal por monedas para poder usar las maquinas.",
@@ -34,7 +34,7 @@
     ],
     "links": [
       {
-        "link2": {
+        "link1": {
           "text": "Discord",
           "url": "https://discord.gg/6sHhsuZePQ"
         }
