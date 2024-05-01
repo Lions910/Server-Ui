@@ -1,0 +1,44 @@
+{
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": true,
+      "HideIconAfter": 60,
+      "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+      "DisableIconText": false,
+      "IconPosition": 3,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "reglas": {
+          "layout": 1,
+          "buttontext": "Reglas",
+          "title1": "Reglas del servidor",
+          "text1": "Estan prohibidas las faltas de respeto y actitudes toxicas hacia cualquier persona del servidor.\n\nDeben respetar a los administradores y moderadores.\n\nEsta prohibido hacer spam y/o publicidad de otras comunidades en el servidor.\n\nLos nombres Humano, 123, rosa melano, politicos, ofensivos y similares están prohibidos.\n\nNo se repondra loot y/o dinos perdido por pantallazos azules, bugs u otros del fallos del servidor.\n\nEstan prohibidos todos los tipos de bugs (Undermap, Dupp, etc).\n\nEsta prohibido el inside.\n\nEsta prohibido arrastrar, secuestrar o encerrar a otros jugadores.\n\nUna tribu solo se puede tener un maximo de 1 bases por mapa.\n🔸️Se pueden hacer mini pueblos mientras no ocupen mas de un área de 40 x 40.\n🔸La base no puede estar en la distancia de render de otra base, esto evita el lag masivo.\n\nEsta prohibido dejar trampas de tameo por el mapa.\n\nEsta prohibido pilarear.\n\nSolo se puede tener 2 TPs publicos maximo por mapa.\n\nEsta prohibido construir en grandes zonas de recursos, zonas de artefactos o cuevas (cuevas con gran spawn de recursos o artefactos,o spawns de dinos especificos).\n\nNo dejar barcas abandonadas.\n\nProhibido dejar dinos en los obeliscos.\n\nSi tienen alguna duda o sugerencia puedes plantearlas en sus respectivos canales o abrir un ticket.\n\n\nSI JUEGAS EN EL SERVIDOR SE DA POR ENTENDIDO QUE CONOCES LAS NORMAS DESCONOCER LA EXISTENCIA DE LAS MISMAS NO SIGNIFICA QUE NO HABRÁ CASTIGOS.",
+          "imageurl": ""
+        }
+      },
+      {
+        "casino": {
+          "layout": 1,
+          "buttontext": "Casino",
+          "title1": "Casino",
+          "text1": "Ubicacion: ARK Verde.\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea lingotes de metal por monedas para poder usar las maquinas.",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link2": {
+          "text": "Discord",
+          "url": "https://discord.gg/6sHhsuZePQ"
+        }
+      }
+    ]
+  }
+}
