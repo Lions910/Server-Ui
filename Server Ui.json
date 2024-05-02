@@ -1,6 +1,8 @@
 {
-  "WBUI2": {
-    "settings": {
+  "WBUI2":
+  {
+    "settings":
+    {
       "OpenButton": 0,
       "HideIcon": true,
       "HideIconAfter": 60,
@@ -12,9 +14,11 @@
       "OpenOnStartOnlyNewPlayers": true,
       "UpdateInterval": 12
     },
-    "tabs": [
+    "tabs":
+    [
       {
-        "reglas": {
+        "reglas":
+        {
           "layout": 1,
           "buttontext": "Reglas",
           "title1": "Reglas del servidor",
@@ -23,8 +27,9 @@
         }
       },
       {
-        "casino": {
-          "layout": 2,
+        "casino":
+        {
+          "layout": 1,
           "buttontext": "Casino",
           "title1": "Casino",
           "text1": "Ubicacion: ARK Verde.\n\nAdquiere dinos exclusivos y otros artículos especiales en el casino.\n\nCanjea lingotes de metal por monedas para poder usar las maquinas.",
@@ -32,9 +37,11 @@
         }
       }
     ],
-    "links": [
+    "links":
+    [
       {
-        "link1": {
+        "link2":
+        {
           "text": "Discord",
           "url": "https://discord.gg/6sHhsuZePQ"
         }
